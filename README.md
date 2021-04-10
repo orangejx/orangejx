@@ -5,7 +5,9 @@
 
 
 ```ts
-echo "Welcome to visit William's GitHub Page~";
+function main(){
+    return "Welcome to visit William's GitHub Page~";
+}
 ```
 
 
