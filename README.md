@@ -5,11 +5,7 @@
 
 
 ```ts
-<?php
-
 echo "Welcome to visit William's GitHub Page~";
-
-?>
 ```
 
 
