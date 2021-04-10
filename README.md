@@ -4,7 +4,7 @@
 > a Handsome Student & Developer form Los Angeles. 
 
 
-```
+```ts
 <?php
 
 echo "Welcome to visit William's GitHub Page~";
