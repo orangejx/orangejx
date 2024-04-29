@@ -1,7 +1,7 @@
 ### Hi there 👋
 > Hi, This is a Github Home Page of William. 
 
-> a Handsome Student & Developer from Los Angeles. 
+> a Handsome Student / Developer / Data Scientist from London. 
 
 
 ```ts
